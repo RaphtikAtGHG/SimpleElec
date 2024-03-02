@@ -2,37 +2,19 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Bug Desciption**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**How to reproduce**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Minecraft Log**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Informations**
+OS: [e.g. iOS, Windows, Linux]
+OS Version: [Windows; e.g. 10.0.22631.3155, Linux: e.g. 6.7.8]
+MC Version: [e.g. 1.20.2]
+Mod Version: [e.g. 0.0.2]
