@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "simple-elec",
+	"version": "${version}",
+	"name": "Simple Electronics",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://raphtikatghg.github.com/main",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "Apache License Version 2.0",
+	"icon": "assets/simple-elec/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.github.raphtikatghg.SimpleElectronics"
+		]
+	},
+	"mixins": [
+		"simple-elec.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
